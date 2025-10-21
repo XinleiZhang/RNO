@@ -1,2 +1,2 @@
 # RNO
-RNO: Resolvent Neural Operator for predicting space-time flow statistics
+RNO: Neural Operator-enhanced resolvent method for predicting space-time flow statistics

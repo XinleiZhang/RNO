@@ -8,6 +8,7 @@ sys.path.append(os.path.abspath(path))
 from PyChannelResolvent import PyResolvent as PyR
 
 if __name__ == '__main__':
+    # eddy viscosity-enhanced resolvent prediction using white-noise forcing
     nut_dns, U_dns = np.loadtxt('../RAS/results-dns-Retau-180.csv',
                                 delimiter=',',
                                 skiprows=1,

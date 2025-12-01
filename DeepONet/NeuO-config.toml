@@ -1,0 +1,8 @@
+branch_input_dim = 130        #fixed
+branch_hidden_dim = 192
+branch_num_hidden_layers = 12
+trunk_input_dim = 4           #fixed
+trunk_hidden_dim = 192
+trunk_num_hidden_layers = 12
+group_size = 3                #fixed
+group_dim = 64
